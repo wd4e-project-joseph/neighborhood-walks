@@ -71,6 +71,16 @@ footer{
     margin-top: 2%;
 }
 
+footer a:link{
+        text-decoration: none;
+        color: white;
+}
+
+footer a:visited{
+        text-decoration: none;
+        color: white;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
